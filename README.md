@@ -3,19 +3,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
-## Math
-|  |
-| ------- |
-| [0935-orderly-queue](https://github.com/Mohitsinghparmarg/DSA/tree/master/0935-orderly-queue) |
+
 ## String
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/Mohitsinghparmarg/DSA/tree/master/0010-regular-expression-matching) |
-| [0935-orderly-queue](https://github.com/Mohitsinghparmarg/DSA/tree/master/0935-orderly-queue) |
-## Sorting
-|  |
-| ------- |
-| [0935-orderly-queue](https://github.com/Mohitsinghparmarg/DSA/tree/master/0935-orderly-queue) |
+
+
 ## Dynamic Programming
 |  |
 | ------- |
