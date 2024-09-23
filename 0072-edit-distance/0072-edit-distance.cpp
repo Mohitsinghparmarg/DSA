@@ -4,26 +4,23 @@ public:
     int m,n;
     int t[501][501];
 
-    int solve(string& word1, string& word2,int i,int j){
+    int solve(string& word1, string& word2,int m,int n){
              
-            if(i == m){
-                 return n-j; // insert kro bhai word1 me yaar...
-             }
-           else if(j == n){
-                  return m-i; // delete kro word1 m se kuch characters bhai...
-             }
-            if(t[i][j] != -1){
-                 return t[i][j];
+            if( m == 0 || n == 0){
+                   return m + n;
             }
-           else if(word1[i] == word2[j]){ //  hn aage badh jaao bhai...
-                     return t[i][j] =  solve(word1,word2,i+1,j+1);
+            if(t[m][n] != -1){
+                 return t[m][n];
+            }
+            if(word1[m-1] == word2[n-1]){ 
+                     return t[m][n] =  solve(word1,word2,m-1,n-1);
             }
            else{
-                   int insertChar  = 1 + solve(word1,word2,i,j+1);
-                   int deleteChar  = 1 + solve(word1,word2,i+1,j);
-                   int replaceChar = 1 + solve(word1,word2,i+1,j+1);
-                 return t[i][j] =  min(min(insertChar,deleteChar),replaceChar);
-           }
+                   int insertChar  = 1 + solve(word1,word2,m,n-1);
+                   int deleteChar  = 1 + solve(word1,word2,m-1,n);
+                   int replaceChar = 1 + solve(word1,word2,m-1,n-1);
+                 return t[m][n] =  min(min(insertChar,deleteChar),replaceChar);
+            }
         return -1;
     }
 
@@ -32,6 +29,6 @@ public:
           m = word1.size();
           n = word2.size();
           memset(t,-1,sizeof(t));
-         return solve(word1,word2,0,0);
+         return solve(word1,word2,m,n);
     }
 };
