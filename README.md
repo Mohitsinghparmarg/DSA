@@ -37,6 +37,7 @@
 ## Array
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Mohitsinghparmarg/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0055-jump-game](https://github.com/Mohitsinghparmarg/DSA/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/Mohitsinghparmarg/DSA/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Mohitsinghparmarg/DSA/tree/master/0064-minimum-path-sum) |
@@ -66,4 +67,8 @@
 |  |
 | ------- |
 | [0443-string-compression](https://github.com/Mohitsinghparmarg/DSA/tree/master/0443-string-compression) |
+## Binary Search
+|  |
+| ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Mohitsinghparmarg/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 <!---LeetCode Topics End-->
