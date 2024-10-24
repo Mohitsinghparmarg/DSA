@@ -7,6 +7,7 @@
 | ------- |
 | [0010-regular-expression-matching](https://github.com/Mohitsinghparmarg/DSA/tree/master/0010-regular-expression-matching) |
 | [0013-roman-to-integer](https://github.com/Mohitsinghparmarg/DSA/tree/master/0013-roman-to-integer) |
+| [0020-valid-parentheses](https://github.com/Mohitsinghparmarg/DSA/tree/master/0020-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/Mohitsinghparmarg/DSA/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/Mohitsinghparmarg/DSA/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/Mohitsinghparmarg/DSA/tree/master/0091-decode-ways) |
@@ -82,4 +83,8 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Mohitsinghparmarg/DSA/tree/master/0013-roman-to-integer) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Mohitsinghparmarg/DSA/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
