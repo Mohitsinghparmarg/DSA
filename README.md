@@ -6,6 +6,7 @@
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/Mohitsinghparmarg/DSA/tree/master/0010-regular-expression-matching) |
+| [0013-roman-to-integer](https://github.com/Mohitsinghparmarg/DSA/tree/master/0013-roman-to-integer) |
 | [0044-wildcard-matching](https://github.com/Mohitsinghparmarg/DSA/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/Mohitsinghparmarg/DSA/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/Mohitsinghparmarg/DSA/tree/master/0091-decode-ways) |
@@ -46,6 +47,7 @@
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Mohitsinghparmarg/DSA/tree/master/0013-roman-to-integer) |
 | [0062-unique-paths](https://github.com/Mohitsinghparmarg/DSA/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Mohitsinghparmarg/DSA/tree/master/0070-climbing-stairs) |
 ## Combinatorics
@@ -76,4 +78,8 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Mohitsinghparmarg/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/Mohitsinghparmarg/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Mohitsinghparmarg/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+## Hash Table
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/Mohitsinghparmarg/DSA/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->
