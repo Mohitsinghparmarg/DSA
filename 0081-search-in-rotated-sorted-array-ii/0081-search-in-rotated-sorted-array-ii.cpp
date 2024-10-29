@@ -16,6 +16,7 @@ public:
              if(nums[start] == nums[mid] && nums[mid] == nums[end]){
                    start++;
                    end--;
+                   continue;
              }
              else if(nums[start] <= nums[mid]){
                   
