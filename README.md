@@ -92,6 +92,7 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Mohitsinghparmarg/DSA/tree/master/0013-roman-to-integer) |
+| [0138-copy-list-with-random-pointer](https://github.com/Mohitsinghparmarg/DSA/tree/master/0138-copy-list-with-random-pointer) |
 ## Stack
 |  |
 | ------- |
@@ -100,5 +101,6 @@
 ## Linked List
 |  |
 | ------- |
+| [0138-copy-list-with-random-pointer](https://github.com/Mohitsinghparmarg/DSA/tree/master/0138-copy-list-with-random-pointer) |
 | [0445-add-two-numbers-ii](https://github.com/Mohitsinghparmarg/DSA/tree/master/0445-add-two-numbers-ii) |
 <!---LeetCode Topics End-->
