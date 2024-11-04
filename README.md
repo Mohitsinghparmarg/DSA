@@ -102,5 +102,6 @@
 |  |
 | ------- |
 | [0138-copy-list-with-random-pointer](https://github.com/Mohitsinghparmarg/DSA/tree/master/0138-copy-list-with-random-pointer) |
+| [0237-delete-node-in-a-linked-list](https://github.com/Mohitsinghparmarg/DSA/tree/master/0237-delete-node-in-a-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/Mohitsinghparmarg/DSA/tree/master/0445-add-two-numbers-ii) |
 <!---LeetCode Topics End-->
