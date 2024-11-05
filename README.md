@@ -56,6 +56,7 @@
 | [0062-unique-paths](https://github.com/Mohitsinghparmarg/DSA/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Mohitsinghparmarg/DSA/tree/master/0070-climbing-stairs) |
 | [0445-add-two-numbers-ii](https://github.com/Mohitsinghparmarg/DSA/tree/master/0445-add-two-numbers-ii) |
+| [2871-double-a-number-represented-as-a-linked-list](https://github.com/Mohitsinghparmarg/DSA/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 ## Combinatorics
 |  |
 | ------- |
@@ -99,6 +100,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/Mohitsinghparmarg/DSA/tree/master/0020-valid-parentheses) |
 | [0445-add-two-numbers-ii](https://github.com/Mohitsinghparmarg/DSA/tree/master/0445-add-two-numbers-ii) |
+| [2871-double-a-number-represented-as-a-linked-list](https://github.com/Mohitsinghparmarg/DSA/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 ## Linked List
 |  |
 | ------- |
@@ -106,4 +108,5 @@
 | [0237-delete-node-in-a-linked-list](https://github.com/Mohitsinghparmarg/DSA/tree/master/0237-delete-node-in-a-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/Mohitsinghparmarg/DSA/tree/master/0445-add-two-numbers-ii) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Mohitsinghparmarg/DSA/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
+| [2871-double-a-number-represented-as-a-linked-list](https://github.com/Mohitsinghparmarg/DSA/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 <!---LeetCode Topics End-->
