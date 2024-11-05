@@ -99,6 +99,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Mohitsinghparmarg/DSA/tree/master/0020-valid-parentheses) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Mohitsinghparmarg/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0445-add-two-numbers-ii](https://github.com/Mohitsinghparmarg/DSA/tree/master/0445-add-two-numbers-ii) |
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/Mohitsinghparmarg/DSA/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 ## Linked List
@@ -109,4 +110,16 @@
 | [0445-add-two-numbers-ii](https://github.com/Mohitsinghparmarg/DSA/tree/master/0445-add-two-numbers-ii) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Mohitsinghparmarg/DSA/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/Mohitsinghparmarg/DSA/tree/master/2871-double-a-number-represented-as-a-linked-list) |
+## Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/Mohitsinghparmarg/DSA/tree/master/0144-binary-tree-preorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/Mohitsinghparmarg/DSA/tree/master/0144-binary-tree-preorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/Mohitsinghparmarg/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->
