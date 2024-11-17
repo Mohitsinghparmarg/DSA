@@ -40,6 +40,7 @@
 | [0044-wildcard-matching](https://github.com/Mohitsinghparmarg/DSA/tree/master/0044-wildcard-matching) |
 | [0055-jump-game](https://github.com/Mohitsinghparmarg/DSA/tree/master/0055-jump-game) |
 | [0455-assign-cookies](https://github.com/Mohitsinghparmarg/DSA/tree/master/0455-assign-cookies) |
+| [0890-lemonade-change](https://github.com/Mohitsinghparmarg/DSA/tree/master/0890-lemonade-change) |
 ## Array
 |  |
 | ------- |
@@ -54,6 +55,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Mohitsinghparmarg/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0455-assign-cookies](https://github.com/Mohitsinghparmarg/DSA/tree/master/0455-assign-cookies) |
 | [0792-binary-search](https://github.com/Mohitsinghparmarg/DSA/tree/master/0792-binary-search) |
+| [0890-lemonade-change](https://github.com/Mohitsinghparmarg/DSA/tree/master/0890-lemonade-change) |
 ## Math
 |  |
 | ------- |
