@@ -13,6 +13,7 @@
 | [0091-decode-ways](https://github.com/Mohitsinghparmarg/DSA/tree/master/0091-decode-ways) |
 | [0131-palindrome-partitioning](https://github.com/Mohitsinghparmarg/DSA/tree/master/0131-palindrome-partitioning) |
 | [0443-string-compression](https://github.com/Mohitsinghparmarg/DSA/tree/master/0443-string-compression) |
+| [0678-valid-parenthesis-string](https://github.com/Mohitsinghparmarg/DSA/tree/master/0678-valid-parenthesis-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -26,6 +27,7 @@
 | [0072-edit-distance](https://github.com/Mohitsinghparmarg/DSA/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/Mohitsinghparmarg/DSA/tree/master/0091-decode-ways) |
 | [0131-palindrome-partitioning](https://github.com/Mohitsinghparmarg/DSA/tree/master/0131-palindrome-partitioning) |
+| [0678-valid-parenthesis-string](https://github.com/Mohitsinghparmarg/DSA/tree/master/0678-valid-parenthesis-string) |
 ## Recursion
 |  |
 | ------- |
@@ -40,6 +42,7 @@
 | [0044-wildcard-matching](https://github.com/Mohitsinghparmarg/DSA/tree/master/0044-wildcard-matching) |
 | [0055-jump-game](https://github.com/Mohitsinghparmarg/DSA/tree/master/0055-jump-game) |
 | [0455-assign-cookies](https://github.com/Mohitsinghparmarg/DSA/tree/master/0455-assign-cookies) |
+| [0678-valid-parenthesis-string](https://github.com/Mohitsinghparmarg/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0890-lemonade-change](https://github.com/Mohitsinghparmarg/DSA/tree/master/0890-lemonade-change) |
 ## Array
 |  |
@@ -124,6 +127,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/Mohitsinghparmarg/DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/Mohitsinghparmarg/DSA/tree/master/0234-palindrome-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/Mohitsinghparmarg/DSA/tree/master/0445-add-two-numbers-ii) |
+| [0678-valid-parenthesis-string](https://github.com/Mohitsinghparmarg/DSA/tree/master/0678-valid-parenthesis-string) |
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/Mohitsinghparmarg/DSA/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 ## Linked List
 |  |
