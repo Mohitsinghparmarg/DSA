@@ -29,6 +29,7 @@
 | [0072-edit-distance](https://github.com/Mohitsinghparmarg/DSA/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/Mohitsinghparmarg/DSA/tree/master/0091-decode-ways) |
 | [0131-palindrome-partitioning](https://github.com/Mohitsinghparmarg/DSA/tree/master/0131-palindrome-partitioning) |
+| [0322-coin-change](https://github.com/Mohitsinghparmarg/DSA/tree/master/0322-coin-change) |
 | [0678-valid-parenthesis-string](https://github.com/Mohitsinghparmarg/DSA/tree/master/0678-valid-parenthesis-string) |
 ## Recursion
 |  |
@@ -62,6 +63,7 @@
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Mohitsinghparmarg/DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0135-candy](https://github.com/Mohitsinghparmarg/DSA/tree/master/0135-candy) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Mohitsinghparmarg/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0322-coin-change](https://github.com/Mohitsinghparmarg/DSA/tree/master/0322-coin-change) |
 | [0455-assign-cookies](https://github.com/Mohitsinghparmarg/DSA/tree/master/0455-assign-cookies) |
 | [0792-binary-search](https://github.com/Mohitsinghparmarg/DSA/tree/master/0792-binary-search) |
 | [0890-lemonade-change](https://github.com/Mohitsinghparmarg/DSA/tree/master/0890-lemonade-change) |
@@ -211,6 +213,7 @@
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Mohitsinghparmarg/DSA/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Mohitsinghparmarg/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/Mohitsinghparmarg/DSA/tree/master/0199-binary-tree-right-side-view) |
+| [0322-coin-change](https://github.com/Mohitsinghparmarg/DSA/tree/master/0322-coin-change) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Mohitsinghparmarg/DSA/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Sorting
 |  |
