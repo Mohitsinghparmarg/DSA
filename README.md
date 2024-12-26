@@ -15,6 +15,7 @@
 | [0131-palindrome-partitioning](https://github.com/Mohitsinghparmarg/DSA/tree/master/0131-palindrome-partitioning) |
 | [0443-string-compression](https://github.com/Mohitsinghparmarg/DSA/tree/master/0443-string-compression) |
 | [0678-valid-parenthesis-string](https://github.com/Mohitsinghparmarg/DSA/tree/master/0678-valid-parenthesis-string) |
+| [1170-shortest-common-supersequence](https://github.com/Mohitsinghparmarg/DSA/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/Mohitsinghparmarg/DSA/tree/master/1250-longest-common-subsequence) |
 ## Dynamic Programming
 |  |
@@ -32,6 +33,7 @@
 | [0131-palindrome-partitioning](https://github.com/Mohitsinghparmarg/DSA/tree/master/0131-palindrome-partitioning) |
 | [0322-coin-change](https://github.com/Mohitsinghparmarg/DSA/tree/master/0322-coin-change) |
 | [0678-valid-parenthesis-string](https://github.com/Mohitsinghparmarg/DSA/tree/master/0678-valid-parenthesis-string) |
+| [1170-shortest-common-supersequence](https://github.com/Mohitsinghparmarg/DSA/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/Mohitsinghparmarg/DSA/tree/master/1250-longest-common-subsequence) |
 ## Recursion
 |  |
