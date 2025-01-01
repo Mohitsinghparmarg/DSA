@@ -193,6 +193,7 @@
 | [0199-binary-tree-right-side-view](https://github.com/Mohitsinghparmarg/DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Mohitsinghparmarg/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Mohitsinghparmarg/DSA/tree/master/0543-diameter-of-binary-tree) |
+| [0547-number-of-provinces](https://github.com/Mohitsinghparmarg/DSA/tree/master/0547-number-of-provinces) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Mohitsinghparmarg/DSA/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Tree
 |  |
@@ -220,6 +221,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/Mohitsinghparmarg/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/Mohitsinghparmarg/DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0322-coin-change](https://github.com/Mohitsinghparmarg/DSA/tree/master/0322-coin-change) |
+| [0547-number-of-provinces](https://github.com/Mohitsinghparmarg/DSA/tree/master/0547-number-of-provinces) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Mohitsinghparmarg/DSA/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Sorting
 |  |
@@ -244,4 +246,12 @@
 |  |
 | ------- |
 | [1046-max-consecutive-ones-iii](https://github.com/Mohitsinghparmarg/DSA/tree/master/1046-max-consecutive-ones-iii) |
+## Union Find
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/Mohitsinghparmarg/DSA/tree/master/0547-number-of-provinces) |
+## Graph
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/Mohitsinghparmarg/DSA/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
