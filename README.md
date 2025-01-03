@@ -74,6 +74,7 @@
 | [0733-flood-fill](https://github.com/Mohitsinghparmarg/DSA/tree/master/0733-flood-fill) |
 | [0792-binary-search](https://github.com/Mohitsinghparmarg/DSA/tree/master/0792-binary-search) |
 | [0890-lemonade-change](https://github.com/Mohitsinghparmarg/DSA/tree/master/0890-lemonade-change) |
+| [1036-rotting-oranges](https://github.com/Mohitsinghparmarg/DSA/tree/master/1036-rotting-oranges) |
 | [1046-max-consecutive-ones-iii](https://github.com/Mohitsinghparmarg/DSA/tree/master/1046-max-consecutive-ones-iii) |
 ## Math
 |  |
@@ -95,6 +96,7 @@
 | [0064-minimum-path-sum](https://github.com/Mohitsinghparmarg/DSA/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/Mohitsinghparmarg/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0733-flood-fill](https://github.com/Mohitsinghparmarg/DSA/tree/master/0733-flood-fill) |
+| [1036-rotting-oranges](https://github.com/Mohitsinghparmarg/DSA/tree/master/1036-rotting-oranges) |
 ## Memoization
 |  |
 | ------- |
@@ -227,6 +229,7 @@
 | [0547-number-of-provinces](https://github.com/Mohitsinghparmarg/DSA/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/Mohitsinghparmarg/DSA/tree/master/0733-flood-fill) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Mohitsinghparmarg/DSA/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1036-rotting-oranges](https://github.com/Mohitsinghparmarg/DSA/tree/master/1036-rotting-oranges) |
 ## Sorting
 |  |
 | ------- |
