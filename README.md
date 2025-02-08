@@ -31,6 +31,7 @@
 | [0070-climbing-stairs](https://github.com/Mohitsinghparmarg/DSA/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/Mohitsinghparmarg/DSA/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/Mohitsinghparmarg/DSA/tree/master/0091-decode-ways) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Mohitsinghparmarg/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0131-palindrome-partitioning](https://github.com/Mohitsinghparmarg/DSA/tree/master/0131-palindrome-partitioning) |
 | [0198-house-robber](https://github.com/Mohitsinghparmarg/DSA/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Mohitsinghparmarg/DSA/tree/master/0213-house-robber-ii) |
@@ -70,6 +71,7 @@
 | [0074-search-a-2d-matrix](https://github.com/Mohitsinghparmarg/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Mohitsinghparmarg/DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Mohitsinghparmarg/DSA/tree/master/0088-merge-sorted-array) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Mohitsinghparmarg/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0130-surrounded-regions](https://github.com/Mohitsinghparmarg/DSA/tree/master/0130-surrounded-regions) |
 | [0135-candy](https://github.com/Mohitsinghparmarg/DSA/tree/master/0135-candy) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Mohitsinghparmarg/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
