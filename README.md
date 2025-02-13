@@ -72,6 +72,7 @@
 | [0055-jump-game](https://github.com/Mohitsinghparmarg/DSA/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/Mohitsinghparmarg/DSA/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Mohitsinghparmarg/DSA/tree/master/0064-minimum-path-sum) |
+| [0073-set-matrix-zeroes](https://github.com/Mohitsinghparmarg/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Mohitsinghparmarg/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Mohitsinghparmarg/DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Mohitsinghparmarg/DSA/tree/master/0088-merge-sorted-array) |
@@ -110,6 +111,7 @@
 | ------- |
 | [0063-unique-paths-ii](https://github.com/Mohitsinghparmarg/DSA/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Mohitsinghparmarg/DSA/tree/master/0064-minimum-path-sum) |
+| [0073-set-matrix-zeroes](https://github.com/Mohitsinghparmarg/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Mohitsinghparmarg/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0130-surrounded-regions](https://github.com/Mohitsinghparmarg/DSA/tree/master/0130-surrounded-regions) |
 | [0733-flood-fill](https://github.com/Mohitsinghparmarg/DSA/tree/master/0733-flood-fill) |
@@ -153,6 +155,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Mohitsinghparmarg/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/Mohitsinghparmarg/DSA/tree/master/0013-roman-to-integer) |
+| [0073-set-matrix-zeroes](https://github.com/Mohitsinghparmarg/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/Mohitsinghparmarg/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0138-copy-list-with-random-pointer](https://github.com/Mohitsinghparmarg/DSA/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/Mohitsinghparmarg/DSA/tree/master/0141-linked-list-cycle) |
