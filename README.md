@@ -70,6 +70,7 @@
 | [0035-search-insert-position](https://github.com/Mohitsinghparmarg/DSA/tree/master/0035-search-insert-position) |
 | [0045-jump-game-ii](https://github.com/Mohitsinghparmarg/DSA/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Mohitsinghparmarg/DSA/tree/master/0055-jump-game) |
+| [0056-merge-intervals](https://github.com/Mohitsinghparmarg/DSA/tree/master/0056-merge-intervals) |
 | [0063-unique-paths-ii](https://github.com/Mohitsinghparmarg/DSA/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Mohitsinghparmarg/DSA/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Mohitsinghparmarg/DSA/tree/master/0073-set-matrix-zeroes) |
@@ -259,6 +260,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/Mohitsinghparmarg/DSA/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/Mohitsinghparmarg/DSA/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/Mohitsinghparmarg/DSA/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Mohitsinghparmarg/DSA/tree/master/0169-majority-element) |
