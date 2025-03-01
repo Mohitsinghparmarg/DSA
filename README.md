@@ -86,6 +86,7 @@
 | [0152-maximum-product-subarray](https://github.com/Mohitsinghparmarg/DSA/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Mohitsinghparmarg/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/Mohitsinghparmarg/DSA/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/Mohitsinghparmarg/DSA/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/Mohitsinghparmarg/DSA/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Mohitsinghparmarg/DSA/tree/master/0213-house-robber-ii) |
 | [0322-coin-change](https://github.com/Mohitsinghparmarg/DSA/tree/master/0322-coin-change) |
@@ -102,6 +103,7 @@
 | [0013-roman-to-integer](https://github.com/Mohitsinghparmarg/DSA/tree/master/0013-roman-to-integer) |
 | [0062-unique-paths](https://github.com/Mohitsinghparmarg/DSA/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Mohitsinghparmarg/DSA/tree/master/0070-climbing-stairs) |
+| [0189-rotate-array](https://github.com/Mohitsinghparmarg/DSA/tree/master/0189-rotate-array) |
 | [0445-add-two-numbers-ii](https://github.com/Mohitsinghparmarg/DSA/tree/master/0445-add-two-numbers-ii) |
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/Mohitsinghparmarg/DSA/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 ## Combinatorics
@@ -137,6 +139,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/Mohitsinghparmarg/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/Mohitsinghparmarg/DSA/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Mohitsinghparmarg/DSA/tree/master/0160-intersection-of-two-linked-lists) |
+| [0189-rotate-array](https://github.com/Mohitsinghparmarg/DSA/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/Mohitsinghparmarg/DSA/tree/master/0234-palindrome-linked-list) |
 | [0443-string-compression](https://github.com/Mohitsinghparmarg/DSA/tree/master/0443-string-compression) |
 | [0455-assign-cookies](https://github.com/Mohitsinghparmarg/DSA/tree/master/0455-assign-cookies) |
