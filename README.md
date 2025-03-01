@@ -64,6 +64,7 @@
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Mohitsinghparmarg/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/Mohitsinghparmarg/DSA/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Mohitsinghparmarg/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Mohitsinghparmarg/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
@@ -129,6 +130,7 @@
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Mohitsinghparmarg/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Mohitsinghparmarg/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/Mohitsinghparmarg/DSA/tree/master/0031-next-permutation) |
 | [0088-merge-sorted-array](https://github.com/Mohitsinghparmarg/DSA/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/Mohitsinghparmarg/DSA/tree/master/0141-linked-list-cycle) |
