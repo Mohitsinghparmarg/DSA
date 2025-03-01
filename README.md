@@ -89,6 +89,7 @@
 | [0189-rotate-array](https://github.com/Mohitsinghparmarg/DSA/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/Mohitsinghparmarg/DSA/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Mohitsinghparmarg/DSA/tree/master/0213-house-robber-ii) |
+| [0268-missing-number](https://github.com/Mohitsinghparmarg/DSA/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Mohitsinghparmarg/DSA/tree/master/0283-move-zeroes) |
 | [0322-coin-change](https://github.com/Mohitsinghparmarg/DSA/tree/master/0322-coin-change) |
 | [0455-assign-cookies](https://github.com/Mohitsinghparmarg/DSA/tree/master/0455-assign-cookies) |
@@ -105,6 +106,7 @@
 | [0062-unique-paths](https://github.com/Mohitsinghparmarg/DSA/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Mohitsinghparmarg/DSA/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Mohitsinghparmarg/DSA/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/Mohitsinghparmarg/DSA/tree/master/0268-missing-number) |
 | [0445-add-two-numbers-ii](https://github.com/Mohitsinghparmarg/DSA/tree/master/0445-add-two-numbers-ii) |
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/Mohitsinghparmarg/DSA/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 ## Combinatorics
@@ -156,6 +158,7 @@
 | [0074-search-a-2d-matrix](https://github.com/Mohitsinghparmarg/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Mohitsinghparmarg/DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Mohitsinghparmarg/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0268-missing-number](https://github.com/Mohitsinghparmarg/DSA/tree/master/0268-missing-number) |
 | [0792-binary-search](https://github.com/Mohitsinghparmarg/DSA/tree/master/0792-binary-search) |
 | [1046-max-consecutive-ones-iii](https://github.com/Mohitsinghparmarg/DSA/tree/master/1046-max-consecutive-ones-iii) |
 ## Hash Table
@@ -170,6 +173,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/Mohitsinghparmarg/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Mohitsinghparmarg/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/Mohitsinghparmarg/DSA/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/Mohitsinghparmarg/DSA/tree/master/0268-missing-number) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Mohitsinghparmarg/DSA/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Stack
 |  |
@@ -271,6 +275,7 @@
 | [0088-merge-sorted-array](https://github.com/Mohitsinghparmarg/DSA/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/Mohitsinghparmarg/DSA/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Mohitsinghparmarg/DSA/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/Mohitsinghparmarg/DSA/tree/master/0268-missing-number) |
 | [0455-assign-cookies](https://github.com/Mohitsinghparmarg/DSA/tree/master/0455-assign-cookies) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Mohitsinghparmarg/DSA/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Divide and Conquer
@@ -305,4 +310,8 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Mohitsinghparmarg/DSA/tree/master/0169-majority-element) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Mohitsinghparmarg/DSA/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
