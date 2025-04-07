@@ -12,18 +12,21 @@
  */
 class Solution {
 public:
-    int Solve(TreeNode* root, int& MaxSum) {
-        if (root == NULL)
+    int Solve(TreeNode* root, int& MaximumPathSum) {
+
+        if (root == NULL) {
             return 0;
-        int LeftSum = max(0, Solve(root->left, MaxSum));
-        int RightSum = max(0, Solve(root->right, MaxSum));
-        MaxSum = max(MaxSum, LeftSum + RightSum + root->val);
+        }
+        int LeftSum = max(0, Solve(root->left, MaximumPathSum));
+        int RightSum = max(0, Solve(root->right, MaximumPathSum));
+        MaximumPathSum = max(MaximumPathSum, LeftSum + RightSum + root->val);
         return max(LeftSum, RightSum) + root->val;
     }
 
     int maxPathSum(TreeNode* root) {
-        int MaxSum = INT_MIN;
-        Solve(root, MaxSum);
-        return MaxSum;
+
+        int MaximumPathSum = INT_MIN;
+        Solve(root, MaximumPathSum);
+        return MaximumPathSum;
     }
 };
