@@ -94,6 +94,7 @@
 | [0283-move-zeroes](https://github.com/Mohitsinghparmarg/DSA/tree/master/0283-move-zeroes) |
 | [0322-coin-change](https://github.com/Mohitsinghparmarg/DSA/tree/master/0322-coin-change) |
 | [0455-assign-cookies](https://github.com/Mohitsinghparmarg/DSA/tree/master/0455-assign-cookies) |
+| [0496-next-greater-element-i](https://github.com/Mohitsinghparmarg/DSA/tree/master/0496-next-greater-element-i) |
 | [0733-flood-fill](https://github.com/Mohitsinghparmarg/DSA/tree/master/0733-flood-fill) |
 | [0792-binary-search](https://github.com/Mohitsinghparmarg/DSA/tree/master/0792-binary-search) |
 | [0890-lemonade-change](https://github.com/Mohitsinghparmarg/DSA/tree/master/0890-lemonade-change) |
@@ -175,6 +176,7 @@
 | [0160-intersection-of-two-linked-lists](https://github.com/Mohitsinghparmarg/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/Mohitsinghparmarg/DSA/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Mohitsinghparmarg/DSA/tree/master/0268-missing-number) |
+| [0496-next-greater-element-i](https://github.com/Mohitsinghparmarg/DSA/tree/master/0496-next-greater-element-i) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Mohitsinghparmarg/DSA/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Stack
 |  |
@@ -185,6 +187,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/Mohitsinghparmarg/DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/Mohitsinghparmarg/DSA/tree/master/0234-palindrome-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/Mohitsinghparmarg/DSA/tree/master/0445-add-two-numbers-ii) |
+| [0496-next-greater-element-i](https://github.com/Mohitsinghparmarg/DSA/tree/master/0496-next-greater-element-i) |
 | [0678-valid-parenthesis-string](https://github.com/Mohitsinghparmarg/DSA/tree/master/0678-valid-parenthesis-string) |
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/Mohitsinghparmarg/DSA/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 ## Linked List
@@ -318,4 +321,8 @@
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Mohitsinghparmarg/DSA/tree/master/0268-missing-number) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/Mohitsinghparmarg/DSA/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
