@@ -95,6 +95,7 @@
 | [0322-coin-change](https://github.com/Mohitsinghparmarg/DSA/tree/master/0322-coin-change) |
 | [0455-assign-cookies](https://github.com/Mohitsinghparmarg/DSA/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/Mohitsinghparmarg/DSA/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/Mohitsinghparmarg/DSA/tree/master/0503-next-greater-element-ii) |
 | [0733-flood-fill](https://github.com/Mohitsinghparmarg/DSA/tree/master/0733-flood-fill) |
 | [0792-binary-search](https://github.com/Mohitsinghparmarg/DSA/tree/master/0792-binary-search) |
 | [0890-lemonade-change](https://github.com/Mohitsinghparmarg/DSA/tree/master/0890-lemonade-change) |
@@ -188,6 +189,7 @@
 | [0234-palindrome-linked-list](https://github.com/Mohitsinghparmarg/DSA/tree/master/0234-palindrome-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/Mohitsinghparmarg/DSA/tree/master/0445-add-two-numbers-ii) |
 | [0496-next-greater-element-i](https://github.com/Mohitsinghparmarg/DSA/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/Mohitsinghparmarg/DSA/tree/master/0503-next-greater-element-ii) |
 | [0678-valid-parenthesis-string](https://github.com/Mohitsinghparmarg/DSA/tree/master/0678-valid-parenthesis-string) |
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/Mohitsinghparmarg/DSA/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 ## Linked List
@@ -325,4 +327,5 @@
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Mohitsinghparmarg/DSA/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/Mohitsinghparmarg/DSA/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
