@@ -39,6 +39,7 @@
 | [0198-house-robber](https://github.com/Mohitsinghparmarg/DSA/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Mohitsinghparmarg/DSA/tree/master/0213-house-robber-ii) |
 | [0322-coin-change](https://github.com/Mohitsinghparmarg/DSA/tree/master/0322-coin-change) |
+| [0416-partition-equal-subset-sum](https://github.com/Mohitsinghparmarg/DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/Mohitsinghparmarg/DSA/tree/master/0516-longest-palindromic-subsequence) |
 | [0678-valid-parenthesis-string](https://github.com/Mohitsinghparmarg/DSA/tree/master/0678-valid-parenthesis-string) |
 | [1170-shortest-common-supersequence](https://github.com/Mohitsinghparmarg/DSA/tree/master/1170-shortest-common-supersequence) |
@@ -93,6 +94,7 @@
 | [0268-missing-number](https://github.com/Mohitsinghparmarg/DSA/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Mohitsinghparmarg/DSA/tree/master/0283-move-zeroes) |
 | [0322-coin-change](https://github.com/Mohitsinghparmarg/DSA/tree/master/0322-coin-change) |
+| [0416-partition-equal-subset-sum](https://github.com/Mohitsinghparmarg/DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0455-assign-cookies](https://github.com/Mohitsinghparmarg/DSA/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/Mohitsinghparmarg/DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Mohitsinghparmarg/DSA/tree/master/0503-next-greater-element-ii) |
