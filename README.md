@@ -103,6 +103,7 @@
 | [0890-lemonade-change](https://github.com/Mohitsinghparmarg/DSA/tree/master/0890-lemonade-change) |
 | [1036-rotting-oranges](https://github.com/Mohitsinghparmarg/DSA/tree/master/1036-rotting-oranges) |
 | [1046-max-consecutive-ones-iii](https://github.com/Mohitsinghparmarg/DSA/tree/master/1046-max-consecutive-ones-iii) |
+| [1878-check-if-array-is-sorted-and-rotated](https://github.com/Mohitsinghparmarg/DSA/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 ## Math
 |  |
 | ------- |
