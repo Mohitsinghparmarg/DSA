@@ -106,6 +106,7 @@
 | [0485-max-consecutive-ones](https://github.com/Mohitsinghparmarg/DSA/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/Mohitsinghparmarg/DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Mohitsinghparmarg/DSA/tree/master/0503-next-greater-element-ii) |
+| [0560-subarray-sum-equals-k](https://github.com/Mohitsinghparmarg/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0733-flood-fill](https://github.com/Mohitsinghparmarg/DSA/tree/master/0733-flood-fill) |
 | [0792-binary-search](https://github.com/Mohitsinghparmarg/DSA/tree/master/0792-binary-search) |
 | [0890-lemonade-change](https://github.com/Mohitsinghparmarg/DSA/tree/master/0890-lemonade-change) |
@@ -198,6 +199,7 @@
 | [0169-majority-element](https://github.com/Mohitsinghparmarg/DSA/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Mohitsinghparmarg/DSA/tree/master/0268-missing-number) |
 | [0496-next-greater-element-i](https://github.com/Mohitsinghparmarg/DSA/tree/master/0496-next-greater-element-i) |
+| [0560-subarray-sum-equals-k](https://github.com/Mohitsinghparmarg/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Mohitsinghparmarg/DSA/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Stack
 |  |
@@ -326,6 +328,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/Mohitsinghparmarg/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [1046-max-consecutive-ones-iii](https://github.com/Mohitsinghparmarg/DSA/tree/master/1046-max-consecutive-ones-iii) |
 ## Union Find
 |  |
