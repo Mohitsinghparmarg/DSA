@@ -76,6 +76,7 @@
 | [0045-jump-game-ii](https://github.com/Mohitsinghparmarg/DSA/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/Mohitsinghparmarg/DSA/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Mohitsinghparmarg/DSA/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/Mohitsinghparmarg/DSA/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/Mohitsinghparmarg/DSA/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/Mohitsinghparmarg/DSA/tree/master/0056-merge-intervals) |
 | [0063-unique-paths-ii](https://github.com/Mohitsinghparmarg/DSA/tree/master/0063-unique-paths-ii) |
@@ -134,6 +135,7 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Mohitsinghparmarg/DSA/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/Mohitsinghparmarg/DSA/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/Mohitsinghparmarg/DSA/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Mohitsinghparmarg/DSA/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Mohitsinghparmarg/DSA/tree/master/0073-set-matrix-zeroes) |
@@ -352,6 +354,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Mohitsinghparmarg/DSA/tree/master/0054-spiral-matrix) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Mohitsinghparmarg/DSA/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Enumeration
 |  |
