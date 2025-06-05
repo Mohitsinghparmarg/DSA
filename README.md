@@ -106,6 +106,7 @@
 | [0416-partition-equal-subset-sum](https://github.com/Mohitsinghparmarg/DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0455-assign-cookies](https://github.com/Mohitsinghparmarg/DSA/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/Mohitsinghparmarg/DSA/tree/master/0485-max-consecutive-ones) |
+| [0493-reverse-pairs](https://github.com/Mohitsinghparmarg/DSA/tree/master/0493-reverse-pairs) |
 | [0496-next-greater-element-i](https://github.com/Mohitsinghparmarg/DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Mohitsinghparmarg/DSA/tree/master/0503-next-greater-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/Mohitsinghparmarg/DSA/tree/master/0560-subarray-sum-equals-k) |
@@ -185,6 +186,7 @@
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Mohitsinghparmarg/DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Mohitsinghparmarg/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0268-missing-number](https://github.com/Mohitsinghparmarg/DSA/tree/master/0268-missing-number) |
+| [0493-reverse-pairs](https://github.com/Mohitsinghparmarg/DSA/tree/master/0493-reverse-pairs) |
 | [0792-binary-search](https://github.com/Mohitsinghparmarg/DSA/tree/master/0792-binary-search) |
 | [1046-max-consecutive-ones-iii](https://github.com/Mohitsinghparmarg/DSA/tree/master/1046-max-consecutive-ones-iii) |
 ## Hash Table
@@ -322,10 +324,12 @@
 | [0053-maximum-subarray](https://github.com/Mohitsinghparmarg/DSA/tree/master/0053-maximum-subarray) |
 | [0148-sort-list](https://github.com/Mohitsinghparmarg/DSA/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Mohitsinghparmarg/DSA/tree/master/0169-majority-element) |
+| [0493-reverse-pairs](https://github.com/Mohitsinghparmarg/DSA/tree/master/0493-reverse-pairs) |
 ## Merge Sort
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/Mohitsinghparmarg/DSA/tree/master/0148-sort-list) |
+| [0493-reverse-pairs](https://github.com/Mohitsinghparmarg/DSA/tree/master/0493-reverse-pairs) |
 ## Sliding Window
 |  |
 | ------- |
@@ -370,4 +374,16 @@
 |  |
 | ------- |
 | [3201-distribute-candies-among-children-ii](https://github.com/Mohitsinghparmarg/DSA/tree/master/3201-distribute-candies-among-children-ii) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Mohitsinghparmarg/DSA/tree/master/0493-reverse-pairs) |
+## Segment Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Mohitsinghparmarg/DSA/tree/master/0493-reverse-pairs) |
+## Ordered Set
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Mohitsinghparmarg/DSA/tree/master/0493-reverse-pairs) |
 <!---LeetCode Topics End-->
