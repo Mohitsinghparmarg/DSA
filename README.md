@@ -119,6 +119,7 @@
 | [1046-max-consecutive-ones-iii](https://github.com/Mohitsinghparmarg/DSA/tree/master/1046-max-consecutive-ones-iii) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Mohitsinghparmarg/DSA/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Mohitsinghparmarg/DSA/tree/master/2271-rearrange-array-elements-by-sign) |
+| [3864-count-the-number-of-computer-unlocking-permutations](https://github.com/Mohitsinghparmarg/DSA/tree/master/3864-count-the-number-of-computer-unlocking-permutations) |
 ## Math
 |  |
 | ------- |
@@ -132,11 +133,13 @@
 | [0445-add-two-numbers-ii](https://github.com/Mohitsinghparmarg/DSA/tree/master/0445-add-two-numbers-ii) |
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/Mohitsinghparmarg/DSA/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 | [3201-distribute-candies-among-children-ii](https://github.com/Mohitsinghparmarg/DSA/tree/master/3201-distribute-candies-among-children-ii) |
+| [3864-count-the-number-of-computer-unlocking-permutations](https://github.com/Mohitsinghparmarg/DSA/tree/master/3864-count-the-number-of-computer-unlocking-permutations) |
 ## Combinatorics
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Mohitsinghparmarg/DSA/tree/master/0062-unique-paths) |
 | [3201-distribute-candies-among-children-ii](https://github.com/Mohitsinghparmarg/DSA/tree/master/3201-distribute-candies-among-children-ii) |
+| [3864-count-the-number-of-computer-unlocking-permutations](https://github.com/Mohitsinghparmarg/DSA/tree/master/3864-count-the-number-of-computer-unlocking-permutations) |
 ## Matrix
 |  |
 | ------- |
@@ -390,4 +393,8 @@
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/Mohitsinghparmarg/DSA/tree/master/0493-reverse-pairs) |
+## Brainteaser
+|  |
+| ------- |
+| [3864-count-the-number-of-computer-unlocking-permutations](https://github.com/Mohitsinghparmarg/DSA/tree/master/3864-count-the-number-of-computer-unlocking-permutations) |
 <!---LeetCode Topics End-->
