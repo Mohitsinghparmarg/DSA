@@ -20,6 +20,7 @@
 | [1078-remove-outermost-parentheses](https://github.com/Mohitsinghparmarg/DSA/tree/master/1078-remove-outermost-parentheses) |
 | [1170-shortest-common-supersequence](https://github.com/Mohitsinghparmarg/DSA/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/Mohitsinghparmarg/DSA/tree/master/1250-longest-common-subsequence) |
+| [2032-largest-odd-number-in-string](https://github.com/Mohitsinghparmarg/DSA/tree/master/2032-largest-odd-number-in-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -66,6 +67,7 @@
 | [0455-assign-cookies](https://github.com/Mohitsinghparmarg/DSA/tree/master/0455-assign-cookies) |
 | [0678-valid-parenthesis-string](https://github.com/Mohitsinghparmarg/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0890-lemonade-change](https://github.com/Mohitsinghparmarg/DSA/tree/master/0890-lemonade-change) |
+| [2032-largest-odd-number-in-string](https://github.com/Mohitsinghparmarg/DSA/tree/master/2032-largest-odd-number-in-string) |
 ## Array
 |  |
 | ------- |
@@ -133,6 +135,7 @@
 | [0189-rotate-array](https://github.com/Mohitsinghparmarg/DSA/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Mohitsinghparmarg/DSA/tree/master/0268-missing-number) |
 | [0445-add-two-numbers-ii](https://github.com/Mohitsinghparmarg/DSA/tree/master/0445-add-two-numbers-ii) |
+| [2032-largest-odd-number-in-string](https://github.com/Mohitsinghparmarg/DSA/tree/master/2032-largest-odd-number-in-string) |
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/Mohitsinghparmarg/DSA/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 | [3201-distribute-candies-among-children-ii](https://github.com/Mohitsinghparmarg/DSA/tree/master/3201-distribute-candies-among-children-ii) |
 | [3864-count-the-number-of-computer-unlocking-permutations](https://github.com/Mohitsinghparmarg/DSA/tree/master/3864-count-the-number-of-computer-unlocking-permutations) |
