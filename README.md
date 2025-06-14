@@ -14,6 +14,7 @@
 | [0091-decode-ways](https://github.com/Mohitsinghparmarg/DSA/tree/master/0091-decode-ways) |
 | [0131-palindrome-partitioning](https://github.com/Mohitsinghparmarg/DSA/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/Mohitsinghparmarg/DSA/tree/master/0151-reverse-words-in-a-string) |
+| [0242-valid-anagram](https://github.com/Mohitsinghparmarg/DSA/tree/master/0242-valid-anagram) |
 | [0443-string-compression](https://github.com/Mohitsinghparmarg/DSA/tree/master/0443-string-compression) |
 | [0516-longest-palindromic-subsequence](https://github.com/Mohitsinghparmarg/DSA/tree/master/0516-longest-palindromic-subsequence) |
 | [0678-valid-parenthesis-string](https://github.com/Mohitsinghparmarg/DSA/tree/master/0678-valid-parenthesis-string) |
@@ -216,6 +217,7 @@
 | [0160-intersection-of-two-linked-lists](https://github.com/Mohitsinghparmarg/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/Mohitsinghparmarg/DSA/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Mohitsinghparmarg/DSA/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/Mohitsinghparmarg/DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Mohitsinghparmarg/DSA/tree/master/0268-missing-number) |
 | [0496-next-greater-element-i](https://github.com/Mohitsinghparmarg/DSA/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Mohitsinghparmarg/DSA/tree/master/0560-subarray-sum-equals-k) |
@@ -329,6 +331,7 @@
 | [0148-sort-list](https://github.com/Mohitsinghparmarg/DSA/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Mohitsinghparmarg/DSA/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Mohitsinghparmarg/DSA/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/Mohitsinghparmarg/DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Mohitsinghparmarg/DSA/tree/master/0268-missing-number) |
 | [0455-assign-cookies](https://github.com/Mohitsinghparmarg/DSA/tree/master/0455-assign-cookies) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Mohitsinghparmarg/DSA/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
