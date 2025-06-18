@@ -24,6 +24,7 @@
 | [1078-remove-outermost-parentheses](https://github.com/Mohitsinghparmarg/DSA/tree/master/1078-remove-outermost-parentheses) |
 | [1170-shortest-common-supersequence](https://github.com/Mohitsinghparmarg/DSA/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/Mohitsinghparmarg/DSA/tree/master/1250-longest-common-subsequence) |
+| [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Mohitsinghparmarg/DSA/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [2032-largest-odd-number-in-string](https://github.com/Mohitsinghparmarg/DSA/tree/master/2032-largest-odd-number-in-string) |
 ## Dynamic Programming
 |  |
@@ -240,6 +241,7 @@
 | [0503-next-greater-element-ii](https://github.com/Mohitsinghparmarg/DSA/tree/master/0503-next-greater-element-ii) |
 | [0678-valid-parenthesis-string](https://github.com/Mohitsinghparmarg/DSA/tree/master/0678-valid-parenthesis-string) |
 | [1078-remove-outermost-parentheses](https://github.com/Mohitsinghparmarg/DSA/tree/master/1078-remove-outermost-parentheses) |
+| [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Mohitsinghparmarg/DSA/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/Mohitsinghparmarg/DSA/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 ## Linked List
 |  |
