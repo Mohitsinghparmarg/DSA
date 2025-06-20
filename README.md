@@ -28,6 +28,7 @@
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Mohitsinghparmarg/DSA/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/Mohitsinghparmarg/DSA/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2032-largest-odd-number-in-string](https://github.com/Mohitsinghparmarg/DSA/tree/master/2032-largest-odd-number-in-string) |
+| [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Mohitsinghparmarg/DSA/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -145,6 +146,7 @@
 | [2032-largest-odd-number-in-string](https://github.com/Mohitsinghparmarg/DSA/tree/master/2032-largest-odd-number-in-string) |
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/Mohitsinghparmarg/DSA/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 | [3201-distribute-candies-among-children-ii](https://github.com/Mohitsinghparmarg/DSA/tree/master/3201-distribute-candies-among-children-ii) |
+| [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Mohitsinghparmarg/DSA/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3864-count-the-number-of-computer-unlocking-permutations](https://github.com/Mohitsinghparmarg/DSA/tree/master/3864-count-the-number-of-computer-unlocking-permutations) |
 ## Combinatorics
 |  |
@@ -231,6 +233,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/Mohitsinghparmarg/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Mohitsinghparmarg/DSA/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/Mohitsinghparmarg/DSA/tree/master/1890-sum-of-beauty-of-all-substrings) |
+| [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Mohitsinghparmarg/DSA/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Stack
 |  |
 | ------- |
@@ -385,6 +388,7 @@
 | [0229-majority-element-ii](https://github.com/Mohitsinghparmarg/DSA/tree/master/0229-majority-element-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/Mohitsinghparmarg/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/Mohitsinghparmarg/DSA/tree/master/1890-sum-of-beauty-of-all-substrings) |
+| [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Mohitsinghparmarg/DSA/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Bit Manipulation
 |  |
 | ------- |
