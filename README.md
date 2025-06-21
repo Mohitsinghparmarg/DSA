@@ -115,6 +115,7 @@
 | [0198-house-robber](https://github.com/Mohitsinghparmarg/DSA/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Mohitsinghparmarg/DSA/tree/master/0213-house-robber-ii) |
 | [0229-majority-element-ii](https://github.com/Mohitsinghparmarg/DSA/tree/master/0229-majority-element-ii) |
+| [0238-product-of-array-except-self](https://github.com/Mohitsinghparmarg/DSA/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/Mohitsinghparmarg/DSA/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Mohitsinghparmarg/DSA/tree/master/0283-move-zeroes) |
 | [0322-coin-change](https://github.com/Mohitsinghparmarg/DSA/tree/master/0322-coin-change) |
@@ -373,6 +374,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/Mohitsinghparmarg/DSA/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/Mohitsinghparmarg/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [1046-max-consecutive-ones-iii](https://github.com/Mohitsinghparmarg/DSA/tree/master/1046-max-consecutive-ones-iii) |
 ## Union Find
