@@ -13,6 +13,7 @@
 | [0044-wildcard-matching](https://github.com/Mohitsinghparmarg/DSA/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/Mohitsinghparmarg/DSA/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/Mohitsinghparmarg/DSA/tree/master/0091-decode-ways) |
+| [0125-valid-palindrome](https://github.com/Mohitsinghparmarg/DSA/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/Mohitsinghparmarg/DSA/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/Mohitsinghparmarg/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/Mohitsinghparmarg/DSA/tree/master/0205-isomorphic-strings) |
@@ -188,6 +189,7 @@
 | [0075-sort-colors](https://github.com/Mohitsinghparmarg/DSA/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Mohitsinghparmarg/DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Mohitsinghparmarg/DSA/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/Mohitsinghparmarg/DSA/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Mohitsinghparmarg/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Mohitsinghparmarg/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/Mohitsinghparmarg/DSA/tree/master/0148-sort-list) |
