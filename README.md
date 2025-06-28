@@ -66,6 +66,7 @@
 | [0050-powx-n](https://github.com/Mohitsinghparmarg/DSA/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/Mohitsinghparmarg/DSA/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Mohitsinghparmarg/DSA/tree/master/0234-palindrome-linked-list) |
+| [2050-count-good-numbers](https://github.com/Mohitsinghparmarg/DSA/tree/master/2050-count-good-numbers) |
 ## Greedy
 |  |
 | ------- |
@@ -154,6 +155,7 @@
 | [0268-missing-number](https://github.com/Mohitsinghparmarg/DSA/tree/master/0268-missing-number) |
 | [0445-add-two-numbers-ii](https://github.com/Mohitsinghparmarg/DSA/tree/master/0445-add-two-numbers-ii) |
 | [2032-largest-odd-number-in-string](https://github.com/Mohitsinghparmarg/DSA/tree/master/2032-largest-odd-number-in-string) |
+| [2050-count-good-numbers](https://github.com/Mohitsinghparmarg/DSA/tree/master/2050-count-good-numbers) |
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/Mohitsinghparmarg/DSA/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 | [3201-distribute-candies-among-children-ii](https://github.com/Mohitsinghparmarg/DSA/tree/master/3201-distribute-candies-among-children-ii) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Mohitsinghparmarg/DSA/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
