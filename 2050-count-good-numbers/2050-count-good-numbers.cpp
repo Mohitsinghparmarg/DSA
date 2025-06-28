@@ -1,0 +1,24 @@
+class Solution {
+public:
+
+
+    const int MOD = 1e9 + 7;
+
+    long long power(long long base, long long exp) {
+        if (exp == 0) return 1;
+        long long half = power(base, exp / 2);
+        long long result = (half * half) % MOD;
+        if (exp % 2 == 1) result = (result * base) % MOD;
+        return result;
+    }
+
+    int countGoodNumbers(long long n) {
+        long long evenCount = (n + 1) / 2; 
+        long long oddCount = n / 2;       
+
+        long long evenWays = power(5, evenCount); 
+        long long oddWays = power(4, oddCount);
+
+        return (evenWays * oddWays) % MOD;
+    }
+};
