@@ -144,6 +144,7 @@
 | [0890-lemonade-change](https://github.com/Mohitsinghparmarg/DSA/tree/master/0890-lemonade-change) |
 | [1036-rotting-oranges](https://github.com/Mohitsinghparmarg/DSA/tree/master/1036-rotting-oranges) |
 | [1046-max-consecutive-ones-iii](https://github.com/Mohitsinghparmarg/DSA/tree/master/1046-max-consecutive-ones-iii) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/Mohitsinghparmarg/DSA/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Mohitsinghparmarg/DSA/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Mohitsinghparmarg/DSA/tree/master/2271-rearrange-array-elements-by-sign) |
 | [3864-count-the-number-of-computer-unlocking-permutations](https://github.com/Mohitsinghparmarg/DSA/tree/master/3864-count-the-number-of-computer-unlocking-permutations) |
@@ -264,6 +265,7 @@
 | [0496-next-greater-element-i](https://github.com/Mohitsinghparmarg/DSA/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Mohitsinghparmarg/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Mohitsinghparmarg/DSA/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/Mohitsinghparmarg/DSA/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/Mohitsinghparmarg/DSA/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Mohitsinghparmarg/DSA/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Stack
@@ -420,6 +422,7 @@
 | [0169-majority-element](https://github.com/Mohitsinghparmarg/DSA/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Mohitsinghparmarg/DSA/tree/master/0229-majority-element-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/Mohitsinghparmarg/DSA/tree/master/0451-sort-characters-by-frequency) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/Mohitsinghparmarg/DSA/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/Mohitsinghparmarg/DSA/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Mohitsinghparmarg/DSA/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Bit Manipulation
