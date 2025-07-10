@@ -1,25 +1,27 @@
 class Solution {
 public:
-  
+    int Solve(int index, vector<int>& prices, const bool& buy, int& profit,
+              vector<vector<int>>& dp) {
+
+        if (index == prices.size())
+            return 0;
+        if (dp[index][buy] != -1)
+            return dp[index][buy];
+        if (buy) {
+            profit = max(-prices[index] +
+                             Solve(index + 1, prices, false, profit, dp),
+                         0 + Solve(index + 1, prices, true, profit, dp));
+        } else {
+            profit =
+                max(prices[index] + Solve(index + 1, prices, true, profit, dp),
+                    0 + Solve(index + 1, prices, false, profit, dp));
+        }
+        return dp[index][buy] = profit;
+    }
     int maxProfit(vector<int>& prices) {
-           
-           int n = prices.size();
-           vector<vector<int>> t(n+1 , vector<int>(2 , 0));
-           
-           t[n][0] = 0;
-           t[n][1] = 0;
-          for(int index = n-1; index >= 0; index--){
-              for(int buy = 0; buy <= 1; buy++){
-                  int profit = 0;
-                 if(buy){
-                     profit = max(-prices[index] + t[index+1][0], t[index+1][1]);
-                 }
-                 else{
-                     profit = max(prices[index] + t[index+1][1], t[index+1][0]);
-                 }
-                t[index][buy] = profit;
-              }
-          }
-        return t[0][1];
+        bool buy = true;
+        int profit = 0;
+        vector<vector<int>> dp(prices.size(), vector<int>(2, -1));
+        return Solve(0, prices, buy, profit, dp);
     }
 };
