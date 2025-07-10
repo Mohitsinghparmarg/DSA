@@ -4,21 +4,20 @@ public:
 
         int profit = 0;
         int n = prices.size();
-        vector<vector<int>> dp(n + 1, vector<int>(2, 0));
-        dp[n][0] = 0;
-        dp[n][1] = 0;
+        vector<int> temp1(2, 0), temp2(2, 0);
+        temp1[0] = 0;
+        temp2[1] = 0;
         for (int index = n - 1; index >= 0; index--) {
             for (int buy = 0; buy <= 1; buy++) {
                 if (buy) {
-                    profit = max(-prices[index] + dp[index + 1][0],
-                                 0 + dp[index + 1][1]);
+                    profit = max(-prices[index] + temp1[0], 0 + temp1[1]);
                 } else {
-                    profit = max(prices[index] + dp[index + 1][1],
-                                 0 + dp[index + 1][0]);
+                    profit = max(prices[index] + temp1[1], 0 + temp1[0]);
                 }
-                dp[index][buy] = profit;
+                temp2[buy] = profit;
             }
+            temp1 = temp2;
         }
-        return dp[0][1];
+        return temp1[1];
     }
 };
