@@ -1,24 +1,29 @@
 class Solution {
 public:
-    int maxProfit(int k, vector<int>& prices) {
-        vector<vector<int>> after(2, vector<int>(k + 1, 0));
-        vector<vector<int>> current(2, vector<int>(k + 1, 0));
-        for (int index = prices.size() - 1; index >= 0; index--) {
-            for (int buy = 0; buy <= 1; buy++) {
-                for (int capacity = 1; capacity <= k; capacity++) {
-                    if (buy) {
-                        current[buy][capacity] =
-                            max(-prices[index] + after[0][capacity],
-                                0 + after[1][capacity]);
-                    } else {
-                        current[buy][capacity] =
-                            max(prices[index] + after[1][capacity - 1],
-                                0 + after[0][capacity]);
-                    }
-                }
-            }
-            after = current;
+    int Solve(int index, int transaction, int k, vector<int>& prices,
+              vector<vector<int>>& dp) {
+        if (index == prices.size() || transaction == 2 * k) {
+            return 0;
         }
-        return after[1][k];
+        if (dp[index][transaction] != -1)
+            return dp[index][transaction];
+
+        if (transaction % 2 == 0) {
+            dp[index][transaction] =
+                max(-prices[index] +
+                        Solve(index + 1, transaction + 1, k, prices, dp),
+                    0 + Solve(index + 1, transaction, k, prices, dp));
+        } else {
+            dp[index][transaction] =
+                max(prices[index] +
+                        Solve(index + 1, transaction + 1, k, prices, dp),
+                    0 + Solve(index + 1, transaction, k, prices, dp));
+        }
+        return dp[index][transaction];
+    }
+
+    int maxProfit(int k, vector<int>& prices) {
+        vector<vector<int>> dp(prices.size(), vector<int>(2 * k, -1));
+        return Solve(0, 0, k, prices, dp);
     }
 };
