@@ -45,6 +45,7 @@
 | [0070-climbing-stairs](https://github.com/Mohitsinghparmarg/DSA/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/Mohitsinghparmarg/DSA/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/Mohitsinghparmarg/DSA/tree/master/0091-decode-ways) |
+| [0120-triangle](https://github.com/Mohitsinghparmarg/DSA/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Mohitsinghparmarg/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Mohitsinghparmarg/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Mohitsinghparmarg/DSA/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
@@ -114,6 +115,7 @@
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Mohitsinghparmarg/DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Mohitsinghparmarg/DSA/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/Mohitsinghparmarg/DSA/tree/master/0090-subsets-ii) |
+| [0120-triangle](https://github.com/Mohitsinghparmarg/DSA/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Mohitsinghparmarg/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Mohitsinghparmarg/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Mohitsinghparmarg/DSA/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
