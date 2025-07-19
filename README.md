@@ -61,6 +61,7 @@
 | [0678-valid-parenthesis-string](https://github.com/Mohitsinghparmarg/DSA/tree/master/0678-valid-parenthesis-string) |
 | [1170-shortest-common-supersequence](https://github.com/Mohitsinghparmarg/DSA/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/Mohitsinghparmarg/DSA/tree/master/1250-longest-common-subsequence) |
+| [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Mohitsinghparmarg/DSA/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Recursion
 |  |
 | ------- |
@@ -152,6 +153,7 @@
 | [1046-max-consecutive-ones-iii](https://github.com/Mohitsinghparmarg/DSA/tree/master/1046-max-consecutive-ones-iii) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Mohitsinghparmarg/DSA/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Mohitsinghparmarg/DSA/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Mohitsinghparmarg/DSA/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Mohitsinghparmarg/DSA/tree/master/2271-rearrange-array-elements-by-sign) |
 | [3864-count-the-number-of-computer-unlocking-permutations](https://github.com/Mohitsinghparmarg/DSA/tree/master/3864-count-the-number-of-computer-unlocking-permutations) |
 ## Math
@@ -231,6 +233,7 @@
 | [0443-string-compression](https://github.com/Mohitsinghparmarg/DSA/tree/master/0443-string-compression) |
 | [0455-assign-cookies](https://github.com/Mohitsinghparmarg/DSA/tree/master/0455-assign-cookies) |
 | [0908-middle-of-the-linked-list](https://github.com/Mohitsinghparmarg/DSA/tree/master/0908-middle-of-the-linked-list) |
+| [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Mohitsinghparmarg/DSA/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Mohitsinghparmarg/DSA/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Mohitsinghparmarg/DSA/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Binary Search
@@ -248,6 +251,7 @@
 | [0540-single-element-in-a-sorted-array](https://github.com/Mohitsinghparmarg/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/Mohitsinghparmarg/DSA/tree/master/0792-binary-search) |
 | [1046-max-consecutive-ones-iii](https://github.com/Mohitsinghparmarg/DSA/tree/master/1046-max-consecutive-ones-iii) |
+| [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Mohitsinghparmarg/DSA/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Hash Table
 |  |
 | ------- |
@@ -438,6 +442,7 @@
 | [0090-subsets-ii](https://github.com/Mohitsinghparmarg/DSA/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/Mohitsinghparmarg/DSA/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Mohitsinghparmarg/DSA/tree/master/0268-missing-number) |
+| [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Mohitsinghparmarg/DSA/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -464,6 +469,7 @@
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/Mohitsinghparmarg/DSA/tree/master/0493-reverse-pairs) |
+| [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Mohitsinghparmarg/DSA/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Brainteaser
 |  |
 | ------- |
@@ -480,4 +486,8 @@
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/Mohitsinghparmarg/DSA/tree/master/0451-sort-characters-by-frequency) |
+## Bitmask
+|  |
+| ------- |
+| [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Mohitsinghparmarg/DSA/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 <!---LeetCode Topics End-->
