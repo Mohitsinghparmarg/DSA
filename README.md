@@ -57,6 +57,7 @@
 | [0213-house-robber-ii](https://github.com/Mohitsinghparmarg/DSA/tree/master/0213-house-robber-ii) |
 | [0322-coin-change](https://github.com/Mohitsinghparmarg/DSA/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/Mohitsinghparmarg/DSA/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/Mohitsinghparmarg/DSA/tree/master/0494-target-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/Mohitsinghparmarg/DSA/tree/master/0516-longest-palindromic-subsequence) |
 | [0678-valid-parenthesis-string](https://github.com/Mohitsinghparmarg/DSA/tree/master/0678-valid-parenthesis-string) |
 | [1170-shortest-common-supersequence](https://github.com/Mohitsinghparmarg/DSA/tree/master/1170-shortest-common-supersequence) |
@@ -142,6 +143,7 @@
 | [0455-assign-cookies](https://github.com/Mohitsinghparmarg/DSA/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/Mohitsinghparmarg/DSA/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/Mohitsinghparmarg/DSA/tree/master/0493-reverse-pairs) |
+| [0494-target-sum](https://github.com/Mohitsinghparmarg/DSA/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/Mohitsinghparmarg/DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Mohitsinghparmarg/DSA/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Mohitsinghparmarg/DSA/tree/master/0540-single-element-in-a-sorted-array) |
@@ -210,6 +212,7 @@
 | [0090-subsets-ii](https://github.com/Mohitsinghparmarg/DSA/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/Mohitsinghparmarg/DSA/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/Mohitsinghparmarg/DSA/tree/master/0216-combination-sum-iii) |
+| [0494-target-sum](https://github.com/Mohitsinghparmarg/DSA/tree/master/0494-target-sum) |
 ## Two Pointers
 |  |
 | ------- |
