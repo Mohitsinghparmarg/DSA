@@ -27,6 +27,7 @@
 | [1078-remove-outermost-parentheses](https://github.com/Mohitsinghparmarg/DSA/tree/master/1078-remove-outermost-parentheses) |
 | [1170-shortest-common-supersequence](https://github.com/Mohitsinghparmarg/DSA/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/Mohitsinghparmarg/DSA/tree/master/1250-longest-common-subsequence) |
+| [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Mohitsinghparmarg/DSA/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Mohitsinghparmarg/DSA/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/Mohitsinghparmarg/DSA/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2032-largest-odd-number-in-string](https://github.com/Mohitsinghparmarg/DSA/tree/master/2032-largest-odd-number-in-string) |
@@ -62,6 +63,7 @@
 | [0678-valid-parenthesis-string](https://github.com/Mohitsinghparmarg/DSA/tree/master/0678-valid-parenthesis-string) |
 | [1170-shortest-common-supersequence](https://github.com/Mohitsinghparmarg/DSA/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/Mohitsinghparmarg/DSA/tree/master/1250-longest-common-subsequence) |
+| [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Mohitsinghparmarg/DSA/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Mohitsinghparmarg/DSA/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Recursion
 |  |
